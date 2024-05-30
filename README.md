@@ -1,21 +1,39 @@
 歡迎來到這裡～這是建中物辯第十屆留下的非文化遺產（？
+
 本人是gogckhs
+
 這篇Github僅用於Vpython學習
+
 我所編譯的軟體是Visual Code
+
 然後我剛剛才花了一大堆時間把Vpython模組載進來
+
 相信你們如果敢點進來的話
+
 就知道什麼是Vpython了
+
 既然如此本人就不多說了
+
 順帶一提，每個章節有很多個小節
+
 每個小節有cm, pc, eg
+
 cm stands for commentary
+
 pc stands for practice
+
 eg stands for example code
+
 commentary內有最後面都有該小節的練習題目，practice則是習題的解答
+
 而eg內則是commemtary的示範code
+
 好了
+
 你們可以直接進入教程
+
 或是留在這裡繼續看我廢話
+
 ----------------------------------------
 今天是2024/5/29
 然後我今天下午才搞懂了什麼是git, github, vs
