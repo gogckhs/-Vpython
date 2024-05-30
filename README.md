@@ -6,6 +6,14 @@
 相信你們如果敢點進來的話
 就知道什麼是Vpython了
 既然如此本人就不多說了
+順帶一提，每個章節有很多個小節
+每個小節有cm, pc, eg
+cm stands for commentary
+pc stands for practice
+eg stands for example code
+commentary內有最後面都有該小節的練習題目，practice則是習題的解答
+而eg內則是commemtary的示範code
+好了
 你們可以直接進入教程
 或是留在這裡繼續看我廢話
 ----------------------------------------
@@ -15,3 +23,7 @@
 反正如果建中物辯活下去的話
 千萬不要忘了我喔
 （好拉如果有其他學校要參一咖我也可以接受
+
+今天是2024/5/30
+我決定cm用pdf的方式上傳
+耶
