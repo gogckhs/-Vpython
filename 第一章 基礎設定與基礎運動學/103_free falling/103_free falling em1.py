@@ -36,5 +36,5 @@ while ball.pos.z >= 0.5*floor.size.z+radius:
     g1.plot(pos=(t, ball.pos.z))
     g2.plot(pos = (t, v))
 
-print (t)
-print (v)
+print ("t = ", t)
+print ("v = ", v)

@@ -47,5 +47,5 @@ while collapse <= 20:
         #這裡我們假設完全彈性碰撞
         collapse += 1
 
-print (t)
-print (v)
+print ("t = ", t)
+print ("v = ", v)

@@ -40,5 +40,5 @@ while collapse <= 20:
         v = -v
         collapse += 1
 
-print (t)
-print (v)
+print ("t = ", t)
+print ("v = ", v)
