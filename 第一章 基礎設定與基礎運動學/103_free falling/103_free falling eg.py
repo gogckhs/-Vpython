@@ -27,6 +27,7 @@ while collapse <= 20:
     g2.plot(pos = (t, v))
 
     if ball.pos.z <= 0.5*floor.size.z+radius:
+        ball.pos.z = 0.5*floor.size.z+radius
         v = -v
         collapse += 1
 
