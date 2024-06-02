@@ -7,7 +7,7 @@ a = 0.1
 t = 0
 dt = 0.01
 
-scene = canvas (title = 'v=t的等加速度運動', center = vec(0,0,0), width = 800, height = 800, background = vec(0,1,0), x=0, y=0)
+scene = canvas (title = 'v=t的等加速度運動', center = vec(0,0,0), width = 800, height = 800, background = vec(0,1,0))
 floor = box(pos= vec(0,0,0), size = vec(l, 0.1*size, l), color = color.red)
 thing = box(pos = vec(size*0.5-l*0.5, 0.55*size, 0), color = color.purple, size = vec(size, size, size))
 
