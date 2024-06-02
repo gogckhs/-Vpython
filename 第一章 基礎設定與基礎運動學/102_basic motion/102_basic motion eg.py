@@ -16,7 +16,7 @@ dt = 0.01
 2. 畫面
 '''
 
-scene = canvas(title = "1D same velocity motion", width = 800, height = 600, x = 0, y = 0, center = vec(0,0,0), background = vec(0.2, 0.4, 0.8))
+scene = canvas(title = "1D same velocity motion", width = 800, height = 600, center = vec(0,0,0), background = vec(0.2, 0.4, 0.8))
 # 這裡的scene 指的是背景。而canvas則是vpython程式庫裡面定義的一個「物件」。你在設定一個vpyhton的模擬時，一定要加入這個canva，不然世界將會一片空虛
 
 floor = box(pos=vec(0,0,0), size = vec(L, 0.1*size, L))
