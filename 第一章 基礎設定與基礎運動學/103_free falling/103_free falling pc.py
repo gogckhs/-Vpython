@@ -21,7 +21,7 @@ g2 = gcurve(graph = vplot, color = color.red)
 
 
 while collapse <= 20:
-    rate(100000)
+    rate(100)
     t += dt
     v += g*dt
     ball.pos.z += v*dt
