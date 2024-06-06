@@ -24,6 +24,8 @@ pc stands for practice
 
 eg stands for example code
 
+em......就是一些額外的參考資料，在cm內都有詳提
+
 commentary內有最後面都有該小節的練習題目，practice則是習題的解答
 
 而eg內則是commemtary的示範code
@@ -45,3 +47,8 @@ commentary內有最後面都有該小節的練習題目，practice則是習題�
 今天是2024/5/30
 我決定cm用pdf的方式上傳
 耶
+
+今天是6/6
+為什麼物辯需要Vpython的模擬呢？
+我覺得這個是一個超級好的問題
+有空再來寫
